@@ -56,4 +56,4 @@ Universite Toulouse 1 Capitole in France.
 
 - [Google Scholar](https://scholar.google.com/citations?user=59YSVmEAAAAJ){: target="_blank" } for the full list of papers and citation counts
 - [ResearchGate](https://www.researchgate.net/profile/Bui-Thanh-Khoa){: target="_blank" } for full texts and datasets
-- [Curriculum vitae](/assets/files/CURRICULUM-VITAE-KhoaBT-21.06.2021.pdf) as a PDF
+- [Curriculum vitae](/assets/files/CURRICULUM VITAE-KhoaBT-18.09.2026.pdf) as a PDF
