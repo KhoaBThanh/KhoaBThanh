@@ -7,13 +7,14 @@ description: "Bui Thanh Khoa, Vice Dean and Senior Lecturer in the Faculty of Co
 
 <img src="{{ '/assets/images/Khoa2026.jpg' | relative_url }}" alt="Bui Thanh Khoa">
 
-Bui Thanh Khoa is a lecturer in the Faculty of Commerce and Tourism at the
+Bui Thanh Khoa is Vice Dean and Senior Lecturer in the Faculty of Commerce and Tourism at the
 Industrial University of Ho Chi Minh City, and the co-founder and CEO of
 Innoteq Co., Ltd.
 
 <p class="lede">His work sits where marketing meets information systems:
 electronic commerce, consumer behaviour, online trust, and the use of machine
-learning on business data.</p>
+learning on business data.I have been named in the Top 2% list of the world's most-cited scientists in Artificial Intelligence & Image Processing at Industrial University of Ho Chi Minh City. 3 consecutive years on the list. Verified on TOPSCINET.
+https://topscinet.com/scientist_profile/Khoa,%20Bui%20Thanh/2019/?stype=single_year </p>
 
 Google Scholar records 2,844 citations and an h-index of 26 for his work
 (September 2026). He holds a PhD in Business Administration from Ho Chi Minh
