@@ -81,6 +81,7 @@ To serve the site at buithanhkhoa.com:
     index.md                 home page
     about.md                 biography, appointments, education
     publications.md          publications page; renders _data/publications.yml
+    projects.md              projects and initiatives page
     teaching.md              courses and supervision
     blog.md                  post index
     contact.md               email, profiles, CV
