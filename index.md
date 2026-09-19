@@ -5,7 +5,7 @@ permalink: /
 description: "Bui Thanh Khoa, lecturer in the Faculty of Commerce and Tourism at the Industrial University of Ho Chi Minh City. Research in electronic commerce, consumer behaviour, and marketing."
 ---
 
-<img src="{{ '/assets/images/khoa.jpg' | relative_url }}" alt="Bui Thanh Khoa sitting on a coastal cliff above the sea">
+<img src="{{ '/assets/images/Khoa2026.jpg' | relative_url }}" alt="Bui Thanh Khoa">
 
 Bui Thanh Khoa is a lecturer in the Faculty of Commerce and Tourism at the
 Industrial University of Ho Chi Minh City, and the co-founder and CEO of
