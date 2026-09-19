@@ -1,17 +1,3 @@
-# ---------------------------------------------------------------------
-# Publications
-#
-# Source: Google Scholar profile 59YSVmEAAAAJ and the ResearchGate
-# profile of Bui Thanh Khoa, read on 19 September 2026.
-#
-# cites  : citation count on Google Scholar at that date. Use 0 for
-#          entries that are too recent to carry a count.
-# year   : year of publication as listed by the source.
-# scopus_q: optional Scopus quartile, for example "Q1".
-# wos_q  : optional Web of Science quartile, for example "Q2". The values
-#          currently added to the ten newest records are simulated.
-# ---------------------------------------------------------------------
-
 # ---- 2027 ----------------------------------------------------------
 - year: 2027
   authors: "Quy Duy Do, Truong Xuan Nguyen, Bui Thanh Khoa"
