@@ -15,10 +15,12 @@ author:
   email: "buithanhkhoa@iuh.edu.vn"
   email_work: "khoabt@innoteq.vn"
 
-# GitHub Pages project site. Set url to the custom domain and clear
-# baseurl when buithanhkhoa.com points at this repository.
-url: "https://thanhlongb.github.io"
-baseurl: "/buithanhkhoa-site"
+# Deployment target. Edit these two lines for the account and repository
+# that will host the site, then rebuild before publishing.
+#   project site:  url: "https://<account>.github.io"   baseurl: "/<repository>"
+#   custom domain: url: "https://buithanhkhoa.com"      baseurl: ""
+url: "https://khoabthanh.github.io"
+baseurl: "/"
 
 lang: en
 timezone: Asia/Ho_Chi_Minh

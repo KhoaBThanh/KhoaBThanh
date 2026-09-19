@@ -28,7 +28,7 @@ With Docker (no Ruby needed on the host):
 
     make build      # writes _site/
     make serve      # preview at http://localhost:4000/buithanhkhoa-site/
-    make deploy     # publish to GitHub Pages
+    make deploy     # publish the built site to gh-pages on origin
 
 With a local Ruby 3.x and Bundler:
 
@@ -36,27 +36,44 @@ With a local Ruby 3.x and Bundler:
     bundle exec jekyll build
     bundle exec jekyll serve
 
-## Deployment
+## Publishing to GitHub Pages
 
-The site is published as a GitHub Pages project site:
+The project is ready for GitHub Pages, but it is not published. No
+repository exists for it. To publish it on a GitHub account:
 
-- Repository: `buithanhkhoa-site`
-- Source of truth: the `main` branch (this directory)
-- Published output: the `gh-pages` branch, written by `make deploy`
+1. Create an empty repository for the site.
+2. Edit `_config.yml` to match the account and the repository name:
 
-`make deploy` builds the site, adds `.nojekyll`, and force-pushes the
-built output to `gh-pages`. GitHub Pages serves that branch as static
-files. Nothing is built on the GitHub side, so the published site is
-exactly what was built and checked on this machine.
+   - project site: `url: "https://<account>.github.io"` and
+     `baseurl: "/<repository>"`
+   - custom domain: `url: "https://buithanhkhoa.com"` and `baseurl: ""`
 
-To use a custom domain such as buithanhkhoa.com:
+3. Add the repository as the remote `origin` and push the source:
+
+       git remote add origin https://github.com/<account>/<repository>.git
+       git push -u origin main
+
+4. Build and publish:
+
+       make deploy
+
+   `make deploy` builds the site, adds `.nojekyll`, and force-pushes the
+   built output to the `gh-pages` branch. Nothing is built on the GitHub
+   side, so the published site is exactly what was built and checked on
+   this machine.
+
+5. In the repository settings, under Pages, set the source to the
+   `gh-pages` branch with the folder `/`.
+
+### Custom domain
+
+To serve the site at buithanhkhoa.com:
 
 1. Set `url: "https://buithanhkhoa.com"` and `baseurl: ""` in
-   `_config.yml`.
-2. Run `make deploy`.
-3. Add a `CNAME` file with `buithanhkhoa.com` to the `gh-pages` branch,
+   `_config.yml`, then run `make deploy`.
+2. Add a `CNAME` file with `buithanhkhoa.com` to the `gh-pages` branch,
    or set the domain in the repository settings under Pages.
-4. Point the domain's DNS at GitHub Pages.
+3. Point the domain's DNS at GitHub Pages.
 
 ## Layout of the source
 
