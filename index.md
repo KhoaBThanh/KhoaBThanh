@@ -25,9 +25,9 @@ Universite Toulouse 1 Capitole in France.
 
 ## Selected publications
 
-{% assign top_pubs = site.data.publications | sort: "cites" | reverse %}
+{% assign top_pubs = site.data.publications | sort: "year" | reverse %}
 <ol class="pub-list">
-{%- for pub in top_pubs limit: 5 %}
+{%- for pub in top_pubs limit: 10 %}
   <li>
     <span class="pub-authors">{{ pub.authors }}</span>.
     <a class="pub-title" href="https://scholar.google.com/scholar?q={{ pub.title | url_encode }}" target="_blank">{{ pub.title }}</a>.
