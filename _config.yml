@@ -38,6 +38,11 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 exclude:
   - README.md
   - Gemfile

@@ -81,12 +81,13 @@ To serve the site at buithanhkhoa.com:
     index.md                 home page
     about.md                 biography, appointments, education
     publications.md          publications page; renders _data/publications.yml
-    projects.md              projects and initiatives page
+    projects.md              project index
     teaching.md              courses and supervision
     blog.md                  post index
     contact.md               email, profiles, CV
     _data/publications.yml   the publication list: edit this to add a paper
     _posts/                  blog posts, one file per post
+    _projects/               project detail pages
     _layouts/                default, page, post
     _includes/               head, header, nav, footer
     assets/css/              fonts.css (font faces) and style.css (theme)
@@ -105,6 +106,9 @@ To add a publication, append a record to `_data/publications.yml`:
 
 To add a post, create `_posts/YYYY-MM-DD-slug.md` with `layout: post` in the
 front matter.
+
+To add a project, create `_projects/slug.md` with `layout: project`, a `title`,
+and a `role` in the front matter.
 
 ## Sources for the content
 

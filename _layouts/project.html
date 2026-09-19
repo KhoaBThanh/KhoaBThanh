@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<article>
+  <h1 class="page-title">{{ page.title }}</h1>
+  {% if page.role %}<p class="meta">{{ page.role }}</p>{% endif %}
+{{ content }}
+</article>
+<hr>
+<p class="meta"><a href="{{ '/projects/' | relative_url }}">All projects</a></p>
