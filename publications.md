@@ -25,8 +25,9 @@ in press.
   <li>
     <span class="pub-authors">{{ pub.authors }}</span>.
     <a class="pub-title" href="https://scholar.google.com/scholar?q={{ pub.title | url_encode }}" target="_blank">{{ pub.title }}</a>.
-    <span class="pub-venue">{{ pub.venue }}</span>.{% if pub.scopus_q != nil and pub.scopus_q != "" or pub.wos_q != nil and pub.wos_q != "" %}
-    <span class="pub-quartiles">{% if pub.scopus_q != nil and pub.scopus_q != "" %}Scopus {{ pub.scopus_q }}{% endif %}{% if pub.scopus_q != nil and pub.scopus_q != "" and pub.wos_q != nil and pub.wos_q != "" %} · {% endif %}{% if pub.wos_q != nil and pub.wos_q != "" %}WoS {{ pub.wos_q }}{% endif %}</span>{% endif %}{% if pub.cites > 0 %}
+    <span class="pub-venue">{{ pub.venue }}</span>.{% if pub.scopus_q != nil and pub.scopus_q != "" %}
+    <span class="pub-quartiles">Scopus {{ pub.scopus_q }}</span>{% endif %}{% if pub.wos_q != nil and pub.wos_q != "" %}{% if pub.scopus_q != nil and pub.scopus_q != "" %} · {% endif %}
+    <span class="pub-quartiles">WoS {{ pub.wos_q }}</span>{% endif %}{% if pub.cites > 0 %}
     <span class="pub-cites">{{ pub.cites }} cites</span>{% endif %}
   </li>
 {%- endif %}{%- endfor %}

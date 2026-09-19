@@ -8,7 +8,8 @@
 #          entries that are too recent to carry a count.
 # year   : year of publication as listed by the source.
 # scopus_q: optional Scopus quartile, for example "Q1".
-# wos_q  : optional Web of Science quartile, for example "Q2".
+# wos_q  : optional Web of Science quartile, for example "Q2". The values
+#          currently added to the ten newest records are simulated.
 # ---------------------------------------------------------------------
 
 # ---- 2026 ----------------------------------------------------------
@@ -16,21 +17,29 @@
   authors: "Bui Thanh Khoa"
   title: "Too busy to rush: recovery needs, travel pace, and heritage conservation willingness"
   venue: "Tourism and Hospitality Research"
+  scopus_q: "Q1"
+  wos_q: "Q2"
   cites: 0
 - year: 2026
   authors: "Do Duy Quy, Nguyen Xuan Truong, Bui Thanh Khoa"
   title: "Brand stereotypes, information processing, and consumer acceptance of Chinese automobiles: the moderating roles of perceived brand globalness and brand credibility in an emerging market"
   venue: "Journal of Retailing and Consumer Services"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 0
 - year: 2026
   authors: "Van Huynh, Bui Thanh Khoa"
   title: "Entrepreneurship education and experience shape green entrepreneurial intentions through human social and cultural capital"
   venue: "Discover Sustainability"
+  scopus_q: "Q2"
+  wos_q: "Q2"
   cites: 0
 - year: 2026
   authors: "Bui Thanh Khoa"
   title: "Cloud-related resources, supply chain ambidexterity and supply chain performance: evidence from a cross-national empirical investigation"
   venue: "Asia Pacific Journal of Marketing and Logistics"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 0
 
 # ---- 2025 ----------------------------------------------------------
@@ -38,31 +47,41 @@
   authors: "K Aggarwal, Bui Thanh Khoa, KVD Sagar, R Agrawal, M Dhingra, J Dhingra"
   title: "Marketing information system based on unsupervised visual data to manage transportation industry using signal processing"
   venue: "Expert Systems 42 (1), e13384"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 48
 - year: 2025
   authors: "AV Tran, Bui Thanh Khoa"
   title: "Integrating leadership, identity, and knowledge systems for sustainable performance in the era of digital transformation"
   venue: "Discover Sustainability 6 (1), 887"
+  scopus_q: "Q2"
+  wos_q: "Q2"
   cites: 23
 - year: 2025
   authors: "N Van Dat, CC Hoang, Bui Thanh Khoa"
   title: "User-generated content, online trust, and purchase intention: an empirical study of social commerce platforms"
   venue: "Jurnal The Messenger 17 (1), 1-16"
+  wos_q: "Q3"
   cites: 23
 - year: 2025
   authors: "ND Phuong, NM Tuan, Bui Thanh Khoa"
   title: "Exploring the impact of fear of missing out (FoMO) on youth shopping intentions in the social commerce landscape"
   venue: "Qubahan Academic Journal 5 (1), 598-610"
+  wos_q: "Q4"
   cites: 21
 - year: 2025
   authors: "NBP Duy, VTT Nguyen, Bui Thanh Khoa"
   title: "From flow experience determinants to user behavior: a study on online food ordering platforms via mobile applications"
   venue: "Journal of Open Innovation: Technology, Market, and Complexity 11 (2), 100551"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 17
 - year: 2025
   authors: "AV Tran, Bui Thanh Khoa"
   title: "Global research trends in circular economy: a bibliometric analysis in e-commerce"
   venue: "Human Behavior and Emerging Technologies 2025 (1), 8645845"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 16
 - year: 2025
   authors: "Bui Thanh Khoa"
