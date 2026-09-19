@@ -7,6 +7,8 @@
 # cites  : citation count on Google Scholar at that date. Use 0 for
 #          entries that are too recent to carry a count.
 # year   : year of publication as listed by the source.
+# scopus_q: optional Scopus quartile, for example "Q1".
+# wos_q  : optional Web of Science quartile, for example "Q2".
 # ---------------------------------------------------------------------
 
 # ---- 2026 ----------------------------------------------------------

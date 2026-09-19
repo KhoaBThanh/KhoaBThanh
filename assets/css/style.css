@@ -207,6 +207,12 @@ ol.plain {
 }
 .pub-title { font-weight: 600; }
 .pub-venue { font-style: italic; color: #444; }
+.pub-quartiles {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  color: #276749;
+  white-space: nowrap;
+}
 .pub-cites {
   font-family: "IBM Plex Mono", monospace;
   font-size: 0.78rem;
