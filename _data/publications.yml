@@ -31,14 +31,13 @@
   title: "Entrepreneurship education and experience shape green entrepreneurial intentions through human social and cultural capital"
   venue: "Discover Sustainability"
   scopus_q: "Q2"
-  wos_q: "Q2"
   cites: 0
 - year: 2026
   authors: "Bui Thanh Khoa"
   title: "Cloud-related resources, supply chain ambidexterity and supply chain performance: evidence from a cross-national empirical investigation"
   venue: "Asia Pacific Journal of Marketing and Logistics"
   scopus_q: "Q1"
-  wos_q: "Q1"
+  wos_q: "Q2"
   cites: 0
 
 # ---- 2025 ----------------------------------------------------------
@@ -47,60 +46,55 @@
   title: "Marketing information system based on unsupervised visual data to manage transportation industry using signal processing"
   venue: "Expert Systems 42 (1), e13384"
   scopus_q: "Q1"
-  wos_q: "Q1"
   cites: 48
 - year: 2025
   authors: "AV Tran, Bui Thanh Khoa"
   title: "Integrating leadership, identity, and knowledge systems for sustainable performance in the era of digital transformation"
   venue: "Discover Sustainability 6 (1), 887"
   scopus_q: "Q2"
-  wos_q: "Q2"
-  cites: 23
-- year: 2025
-  authors: "N Van Dat, CC Hoang, Bui Thanh Khoa"
-  title: "User-generated content, online trust, and purchase intention: an empirical study of social commerce platforms"
-  venue: "Jurnal The Messenger 17 (1), 1-16"
-  wos_q: "Q3"
   cites: 23
 - year: 2025
   authors: "ND Phuong, NM Tuan, Bui Thanh Khoa"
   title: "Exploring the impact of fear of missing out (FoMO) on youth shopping intentions in the social commerce landscape"
   venue: "Qubahan Academic Journal 5 (1), 598-610"
-  wos_q: "Q4"
+  scopus_q: "Q2"
   cites: 21
 - year: 2025
   authors: "NBP Duy, VTT Nguyen, Bui Thanh Khoa"
   title: "From flow experience determinants to user behavior: a study on online food ordering platforms via mobile applications"
   venue: "Journal of Open Innovation: Technology, Market, and Complexity 11 (2), 100551"
   scopus_q: "Q1"
-  wos_q: "Q1"
   cites: 17
 - year: 2025
   authors: "AV Tran, Bui Thanh Khoa"
   title: "Global research trends in circular economy: a bibliometric analysis in e-commerce"
   venue: "Human Behavior and Emerging Technologies 2025 (1), 8645845"
   scopus_q: "Q1"
-  wos_q: "Q1"
   cites: 16
 - year: 2025
   authors: "Bui Thanh Khoa"
   title: "The triple helix of digital engagement: unifying technology acceptance, trust signaling, and social contagion in Generation Z's social commerce repurchase decisions"
   venue: "Journal of Theoretical and Applied Electronic Commerce Research 20 (2), 145"
+  scopus_q: "Q1"
+  wos_q: "Q2"
   cites: 15
 - year: 2025
   authors: "AV Tran, Bui Thanh Khoa"
   title: "The impact of mobile augmented reality on green experience and destination choice intention in green tourism in Vietnam"
   venue: "Geo Journal of Tourism and Geosites 58 (1), 136-145"
+  scopus_q: "Q1"
   cites: 15
 - year: 2025
   authors: "AV Tran, Bui Thanh Khoa"
   title: "Generation Z customers' online outbound tourism booking intention in Vietnam: extending the technology acceptance model with intercultural competence"
   venue: "Geo Journal of Tourism and Geosites 60, 1119-1127"
+  scopus_q: "Q1"
   cites: 13
 - year: 2025
   authors: "KB Thanh, LTT Thanh"
   title: "Consumer privacy concerns and information sharing intention in omnichannel retailing: mediating role of online trust"
   venue: "Pakistan Journal of Commerce and Social Sciences 19 (1), 55-76"
+  scopus_q: "Q2"
   cites: 11
 
 # ---- 2024 ----------------------------------------------------------
@@ -108,6 +102,8 @@
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "Knowledge-intensive teamwork development through social media adoption after the COVID-19 pandemic in higher education institutions"
   venue: "Heliyon 10 (4)"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 33
 
 # ---- 2023 ----------------------------------------------------------
@@ -115,46 +111,50 @@
   authors: "Bui Thanh Khoa, BP Hung, M Hejsalem-Brahmi"
   title: "Qualitative research in social sciences: data collection, data analysis and report writing"
   venue: "International Journal of Public Sector Performance Management 12 (1-2), 187-209"
+  scopus_q: "Q3"
   cites: 485
 - year: 2023
   authors: "Bui Thanh Khoa"
   title: "The role of self-efficacy and firm size in the online advertising services continuous adoption intention: theory of planned behavior approach"
   venue: "Journal of Open Innovation: Technology, Market, and Complexity 9 (1), 100025"
+  scopus_q: "Q1"
   cites: 80
 - year: 2023
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "The effectiveness of knowledge management systems in motivation and satisfaction in higher education institutions: data from Vietnam"
   venue: "Data in Brief 49, 109454"
+  scopus_q: "Q1"
   cites: 28
 - year: 2023
   authors: "TT Huynh, Bui Thanh Khoa"
   title: "How does anxiety affect the relationship between the customer and the omnichannel systems?"
   venue: "Journal of Theoretical and Applied Electronic Commerce Research 18 (1), 130-149"
+  scopus_q: "Q1"
+  wos_q: "Q2"
   cites: 28
-- year: 2023
-  authors: "Bui Thanh Khoa, TT Huynh"
-  title: "A comparison of CAPM and Fama-French three-factor model under machine learning approaching"
-  venue: "Journal of Eastern European and Central Asian Research 10 (7), 1100"
-  cites: 24
 - year: 2023
   authors: "DH De, Bui Thanh Khoa, VTT Nguyen"
   title: "Customer's online purchase intention: the role of perceived business size and reputation"
   venue: "Journal of Logistics, Informatics and Service Science 10 (2), 296-307"
+  scopus_q: "Q3"
   cites: 18
 - year: 2023
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "Effectiveness of OLS and SVR in return prediction: Fama-French three-factor model and CAPM framework"
   venue: "Industrial Engineering and Management Systems 22 (1), 73-84"
+  scopus_q: "Q2"
   cites: 14
 - year: 2023
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "The value premium and uncertainty: an approach by support vector regression algorithm"
   venue: "Cogent Economics and Finance 11 (1), 2191459"
+  scopus_q: "Q2"
   cites: 11
 - year: 2023
   authors: "Bui Thanh Khoa"
   title: "Increasing online business productivity through customer electronic loyalty: the role of online trust and hedonic value"
   venue: "International Journal of Public Sector Performance Management 12 (1-2), 252-274"
+  scopus_q: "Q3"
   cites: 11
 
 # ---- 2022 ----------------------------------------------------------
@@ -162,195 +162,90 @@
   authors: "NP Hung, Bui Thanh Khoa"
   title: "Examining the structural relationships of electronic word of mouth, attitude toward destination, travel intention, tourist satisfaction and loyalty: a meta-analysis"
   venue: "Geo Journal of Tourism and Geosites 45, 1650-1660"
+  scopus_q: "Q1"
   cites: 43
 - year: 2022
   authors: "CC Hoang, Bui Thanh Khoa"
   title: "Impulse buying behavior of Generation Z customers in social commerce: flow theory approach"
   venue: "Journal of Logistics, Informatics and Service Science 9 (4), 197-208"
+  scopus_q: "Q3"
   cites: 36
-- year: 2022
-  authors: "Bui Thanh Khoa, NM Ha, BH Ngoc"
-  title: "The accommodation services booking intention through the mobile applications of Generation Y: an empirical evidence based on TAM2 model"
-  venue: "International Econometric Conference of Vietnam, 559-574"
-  cites: 29
-- year: 2022
-  authors: "Bui Thanh Khoa, TT Huynh"
-  title: "Forecasting stock price movement direction by machine learning algorithm"
-  venue: "International Journal of Electrical and Computer Engineering 12 (6)"
-  cites: 28
 - year: 2022
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "How do customer anxiety levels impact relationship marketing in electronic commerce?"
   venue: "Cogent Business and Management 9 (1), 2136928"
+  scopus_q: "Q2"
   cites: 23
 - year: 2022
   authors: "Bui Thanh Khoa"
   title: "Dataset for the electronic customer relationship management based on SOR model in electronic commerce"
   venue: "Data in Brief 42, 108039"
+  scopus_q: "Q1"
   cites: 20
 - year: 2022
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "The influence of individuals' concerns about the organisation's privacy information practices on customers' online purchase intentions: the mediating role of online trust"
   venue: "Journal of Logistics, Informatics and Service Science 9 (3), 31-44"
+  scopus_q: "Q3"
   cites: 19
 - year: 2022
   authors: "Bui Thanh Khoa, MH Nguyen"
   title: "The moderating role of anxiety in the relationship between the perceived benefits, online trust, and personal information disclosure in online shopping"
   venue: "International Journal of Business and Society 23 (1), 444-460"
+  scopus_q: "Q3"
   cites: 19
 - year: 2022
   authors: "PN Duong, DT Kien, Bui Thanh Khoa"
   title: "Do knowledge management systems motivate and satisfy the academic staff in higher education institutions?"
   venue: "Journal of Applied Learning and Teaching 5 (2), 84-94"
+  scopus_q: "Q1"
   cites: 17
-- year: 2022
-  authors: "Bui Thanh Khoa, TT Huynh"
-  title: "Long short-term memory recurrent neural network for predicting the return of rate under the Fama-French five factor model"
-  venue: "Discrete Dynamics in Nature and Society 2022 (1), 3936122"
-  cites: 17
-- year: 2022
-  authors: "Bui Thanh Khoa"
-  title: "The positive electronic word of mouth: a research based on the relational mediator meta-analytic framework in the electronic marketplace"
-  venue: "Lecture Notes in Networks and Systems 238, 147-157"
-  cites: 15
 - year: 2022
   authors: "Bui Thanh Khoa, TT Huynh"
   title: "Predicting exchange rate under UIRP framework with support vector regression"
   venue: "Emerging Science Journal 6 (3), 619-630"
+  scopus_q: "Q1"
   cites: 14
-- year: 2022
-  authors: "NBP Duy, Bui Thanh Khoa"
-  title: "Consumer behavior in online flash sale: partial least squares structural equation modeling analysis"
-  venue: "International Conference on Decision Aid Sciences and Applications"
-  cites: 12
 
 # ---- 2021 ----------------------------------------------------------
-- year: 2021
-  authors: "Bui Thanh Khoa, DT Thai"
-  title: "Capital structure and trade-off theory: evidence from Vietnam"
-  venue: "Journal of Asian Finance, Economics and Business 8 (1), 45-52"
-  cites: 78
-- year: 2021
-  authors: "Bui Thanh Khoa"
-  title: "The impact of chatbots on the relationship between integrated marketing communication and online purchasing behavior in the frontier market"
-  venue: "Jurnal The Messenger 13 (1), 19-32"
-  cites: 69
-- year: 2021
-  authors: "MH Nguyen, NV Luan, Bui Thanh Khoa"
-  title: "Employer attractiveness and employee performance: an exploratory study"
-  venue: "Journal of System and Management Sciences 11 (1), 97-123"
-  cites: 45
-- year: 2021
-  authors: "Bui Thanh Khoa, NM Ly, VTT Uyen, NTT Oanh, BT Long"
-  title: "The impact of social media marketing on the travel intention of Generation Z travelers"
-  venue: "IEEE International IOT, Electronics and Mechatronics Conference"
-  cites: 41
-- year: 2021
-  authors: "Bui Thanh Khoa, TT Huynh"
-  title: "Is it possible to earn abnormal return in an inefficient market? An approach based on machine learning in stock trading"
-  venue: "Computational Intelligence and Neuroscience 2021 (1), 2917577"
-  cites: 35
-- year: 2021
-  authors: "Bui Thanh Khoa, L Hoa"
-  title: "The effect of knowledge management process on employee commitment: evidence from the digital marketing industry"
-  venue: "Management Science Letters 11 (5), 1557-1564"
-  cites: 26
-- year: 2021
-  authors: "Bui Thanh Khoa, NTT Oanh, VTT Uyen, DCH Dung"
-  title: "Customer loyalty in the COVID-19 pandemic: the application of machine learning in survey data"
-  venue: "Smart Systems: Innovations in Computing, Proceedings of SSIC 2021, 419-429"
-  cites: 23
-- year: 2021
-  authors: "NM Ha, Bui Thanh Khoa"
-  title: "The Google advertising service adoption behavior of enterprises in the digital transformation age"
-  venue: "Webology 18 (Special Issue 02), 153-170"
-  cites: 21
 - year: 2021
   authors: "Bui Thanh Khoa"
   title: "Trust based online food review toward customers' restaurant selection intention in food and beverage service"
   venue: "Journal of Logistics, Informatics and Service Science 8 (2), 151-170"
+  scopus_q: "Q3"
   cites: 17
-- year: 2021
-  authors: "Bui Thanh Khoa, DT Kien, LTK Oanh"
-  title: "Students' learning management system adoption intention in COVID-19: an integration of TPB and TTF model"
-  venue: "International Conference on Education and Technology, 187-193"
-  cites: 13
-- year: 2021
-  authors: "Bui Thanh Khoa, TT Huynh"
-  title: "Support vector regression algorithm under the CAPM framework"
-  venue: "International Conference on Data Analytics for Business and Industry"
-  cites: 12
 
 # ---- 2020 ----------------------------------------------------------
 - year: 2020
   authors: "Bui Thanh Khoa"
-  title: "The antecedents of relationship marketing and customer loyalty: a case of the designed fashion product"
-  venue: "Journal of Asian Finance, Economics and Business 7 (2), 195-204"
-  cites: 169
-- year: 2020
-  authors: "Bui Thanh Khoa"
   title: "The impact of the personal data disclosure's tradeoff on the trust and attitude loyalty in mobile banking services"
   venue: "Journal of Promotion Management 27 (4), 585-608"
+  scopus_q: "Q2"
   cites: 88
-- year: 2020
-  authors: "Bui Thanh Khoa, MH Nguyen, VHN Tran, HB Nguyen"
-  title: "Lecturers' adoption of the online learning management system: empirical evidence from the TAM2 model for Vietnam"
-  venue: "Journal of Science, Ho Chi Minh City Open University 10 (2), 3-17"
-  cites: 80
-- year: 2020
-  authors: "MT Nguyen, Bui Thanh Khoa"
-  title: "Improving the competitiveness of exporting enterprises: a case of Kien Giang province in Vietnam"
-  venue: "Journal of Asian Finance, Economics and Business 7 (6), 495-508"
-  cites: 53
 - year: 2020
   authors: "Bui Thanh Khoa, TD Nguyen, VTT Nguyen"
   title: "Factors affecting customer relationship and the repurchase intention of designed fashion products"
+  scopus_q: "Q3"
   venue: "Journal of Distribution Science 18 (2), 17-28"
   cites: 49
 - year: 2020
   authors: "Bui Thanh Khoa, MH Nguyen"
   title: "Electronic loyalty in social commerce: scale development and validation"
   venue: "Gadjah Mada International Journal of Business 22 (3), 276-300"
+  scopus_q: "Q3"
   cites: 32
-- year: 2020
-  authors: "Bui Thanh Khoa, LT Huynh, MH Nguyen"
-  title: "The relationship between perceived value and peer engagement in the sharing economy: a case study of ridesharing services"
-  venue: "Journal of System and Management Sciences 10 (4), 149-172"
-  cites: 29
-- year: 2020
-  authors: "Bui Thanh Khoa"
-  title: "Electronic loyalty in the relationship between consumer habits, Groupon website reputation, and online trust"
-  venue: "Journal of Theoretical and Applied Information Technology 98 (24), 3947-3960"
-  cites: 21
-- year: 2020
-  authors: "Bui Thanh Khoa, T Khanh"
-  title: "The impact of electronic word of mouth on admission intention to a private university"
-  venue: "Test Engineering and Management 83, 14956-14970"
-  cites: 20
-- year: 2020
-  authors: "Bui Thanh Khoa"
-  title: "The perceived enjoyment of online courses in the digital transformation age: the uses and gratification theory approach"
-  venue: "International Conference on e-Learning, 183-188"
-  cites: 17
 
 # ---- 2019 ----------------------------------------------------------
-- year: 2019
-  authors: "HM Nguyen, Bui Thanh Khoa"
-  title: "The relationship between the perceived mental benefits, online trust, and personal information disclosure in online shopping"
-  venue: "Journal of Asian Finance, Economics and Business 6 (4), 261-270"
-  cites: 80
 - year: 2019
   authors: "MH Nguyen, Bui Thanh Khoa"
   title: "Customer electronic loyalty towards online business: the role of online trust, perceived mental benefits and hedonic value"
   venue: "Journal of Distribution Science 17 (12), 81-93"
+  scopus_q: "Q3"
   cites: 79
 - year: 2019
   authors: "MH Nguyen, Bui Thanh Khoa"
   title: "Perceived mental benefit in electronic commerce: development and validation"
   venue: "Sustainability 11 (23), 6587"
+  scopus_q: "Q1"
+  wos_q: "Q1"
   cites: 41
-- year: 2019
-  authors: "MH Nguyen, Bui Thanh Khoa"
-  title: "A study on the chain of cost, values, and online trust: applications in mobile commerce in Vietnam"
-  venue: "Journal of Applied Economic Sciences 14 (1), 269-280"
-  cites: 18
