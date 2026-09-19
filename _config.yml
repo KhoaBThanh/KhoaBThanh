@@ -1,0 +1,46 @@
+# ---------------------------------------------------------------------
+# Site settings
+# ---------------------------------------------------------------------
+title: "Bui Thanh Khoa"
+tagline: "Lecturer, researcher, and founder in Ho Chi Minh City"
+
+description: >-
+  Personal site of Bui Thanh Khoa: lecturer in the Faculty of Commerce and
+  Tourism at the Industrial University of Ho Chi Minh City, co-founder and CEO
+  of Innoteq Co., Ltd., and researcher in electronic commerce, consumer
+  behaviour, and marketing.
+
+author:
+  name: "Bui Thanh Khoa"
+  email: "buithanhkhoa@iuh.edu.vn"
+  email_work: "khoabt@innoteq.vn"
+
+# GitHub Pages project site. Set url to the custom domain and clear
+# baseurl when buithanhkhoa.com points at this repository.
+url: "https://thanhlongb.github.io"
+baseurl: "/buithanhkhoa-site"
+
+lang: en
+timezone: Asia/Ho_Chi_Minh
+
+# ---------------------------------------------------------------------
+# Build settings
+# ---------------------------------------------------------------------
+permalink: pretty
+future: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - .bundle
+  - vendor
+  - scripts

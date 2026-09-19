@@ -1,0 +1,11 @@
+# Jekyll output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler. The lock file is left out on purpose: the Gemfile pins the
+# Jekyll version, and the lock file from this machine carries a platform
+# specific to the Docker image.
+.bundle/
+vendor/
+Gemfile.lock
