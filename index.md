@@ -15,7 +15,7 @@ Innoteq Co., Ltd.
 electronic commerce, consumer behaviour, online trust, and the use of machine
 learning on business data.
   
-I have been named in the Top 2% list of the world's most-cited scientists. Source: [TOPSCINET – Verified Profile](https://topscinet.com/scientist_profile/Khoa,%20Bui%20Thanh/2019/?stype=single_year)
+I have been named in the Top 2% list of the world's most-cited scientists. Source: [Verified on TOPSCINET](https://topscinet.com/scientist_profile/Khoa,%20Bui%20Thanh/2019/?stype=single_year)
 
 Google Scholar records 2,844 citations and an h-index of 26 for his work
 (September 2026). He holds a PhD in Business Administration from Ho Chi Minh
