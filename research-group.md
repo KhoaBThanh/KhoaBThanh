@@ -10,26 +10,40 @@ working on business, management, marketing, information systems, and related
 questions in emerging markets. The group supports collaborative research,
 methodological development, and the practical application of research findings.
 
-## Members
+## Members by phase
 
-<table class="cv">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Role</th>
-      <th>ORCID</th>
-    </tr>
-  </thead>
-  <tbody>
-{%- for member in site.data.research_group.members %}
-    <tr>
-      <td>{{ member.name }}</td>
-      <td>{{ member.role }}</td>
-      <td><a href="{{ member.orcid_url }}" target="_blank" rel="noopener">{{ member.orcid }}</a></td>
-    </tr>
+{%- for group in site.data.research_group.groups %}
+
+### {{ group.period }}
+
+<ul class="plain">
+{%- for member in group.members %}
+  <li class="entry">
+    <span class="entry-title">{{ member.name }}</span>
+    <span class="source">{{ member.role }}{% if member.orcid != nil and member.orcid != "" and member.orcid != "0000-0000-0000-0000" %} · ORCID: <a href="{{ member.orcid_url }}" target="_blank" rel="noopener">{{ member.orcid }}</a>{% endif %}</span>
+  </li>
 {%- endfor %}
-  </tbody>
-</table>
+</ul>
+
+{%- endfor %}
+
+## Research topics
+
+<ul>
+{%- for topic in site.data.research_group.topics %}
+  <li>{{ topic }}</li>
+{%- endfor %}
+</ul>
+
+## Research projects
+
+{%- for project in site.data.research_group.projects %}
+
+### {{ project.title }}
+<p class="meta">{{ project.period }}</p>
+<p>{{ project.summary }}</p>
+
+{%- endfor %}
 
 ## Group publications
 
@@ -57,11 +71,14 @@ new work.
 </ol>
 {%- endfor %}
 
-## Research topics
+## Sample publications
 
-<ul>
-{%- for topic in site.data.research_group.topics %}
-  <li>{{ topic }}</li>
+<ul class="plain">
+{%- for pub in site.data.research_group.sample_publications %}
+  <li class="entry">
+    <span class="entry-title">{{ pub.authors }}. {{ pub.title }}</span>
+    <span class="source">{{ pub.venue }} ({{ pub.year }}){% if pub.doi != nil and pub.doi != "" %} · DOI: {{ pub.doi }}{% endif %}</span>
+  </li>
 {%- endfor %}
 </ul>
 

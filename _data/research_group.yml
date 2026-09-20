@@ -1,8 +1,41 @@
-members:
-  - name: "Bui Thanh Khoa"
-    role: "Founder and group lead"
-    orcid: "0000-0002-9878-2164"
-    orcid_url: "https://orcid.org/0000-0002-9878-2164"
+groups:
+  - period: "2025-2026"
+    members:
+      - name: "Bui Thanh Khoa"
+        role: "Founder and group lead"
+        orcid: "0000-0002-9878-2164"
+        orcid_url: "https://orcid.org/0000-0002-9878-2164"
+      - name: "Nguyen Duy Phuong"
+        role: "Researcher in digital consumer behaviour"
+        orcid: "0000-0000-0000-0000"
+        orcid_url: "https://orcid.org/"
+      - name: "Tran Trong Huynh"
+        role: "Researcher in financial market and sustainability"
+        orcid: "0000-0000-0000-0000"
+        orcid_url: "https://orcid.org/"
+      - name: "Nguyen Binh Phuong Duy"
+        role: "Researcher in digital experience and bibliometric studies"
+        orcid: "0000-0000-0000-0000"
+        orcid_url: "https://orcid.org/"
+
+  - period: "2026-2027"
+    members:
+      - name: "Bui Thanh Khoa"
+        role: "Group lead and principal investigator"
+        orcid: "0000-0002-9878-2164"
+        orcid_url: "https://orcid.org/0000-0002-9878-2164"
+      - name: "Anh Viet Tran"
+        role: "Researcher in the metaverse and digital transformation"
+        orcid: "0000-0000-0000-0000"
+        orcid_url: "https://orcid.org/"
+      - name: "Dam Tuan Anh Le"
+        role: "Researcher in logistics and customer behavior"
+        orcid: "0000-0000-0000-0000"
+        orcid_url: "https://orcid.org/"
+      - name: "Vo Thi Thao Uyen"
+        role: "Researcher in social commerce and adoption studies"
+        orcid: "0000-0000-0000-0000"
+        orcid_url: "https://orcid.org/"
 
 topics:
   - "Management and marketing"
@@ -11,3 +44,41 @@ topics:
   - "Consumer behaviour"
   - "Organisational behaviour"
   - "Sustainable business and innovation"
+  - "Logistics, operations, and service quality"
+  - "Corporate finance, risk, and sustainability reporting"
+
+sample_publications:
+  - authors: "Bui Thanh Khoa, Nguyen Duy Phuong"
+    title: "Sustainable development policy integration, student engagement, and perceived educational quality in Vietnamese higher education"
+    venue: "Discover Sustainability"
+    year: 2026
+    doi: "10.1007/s43621-026-03835-0"
+  - authors: "Anh Viet Tran, Bui Thanh Khoa"
+    title: "Global research trends in circular economy: A bibliometric analysis in e-commerce"
+    venue: "Human Behavior and Emerging Technologies"
+    year: 2025
+    doi: "10.1155/hbe2/8645845"
+  - authors: "Bui Thanh Khoa, Nguyen Minh Tuan, Nguyen Duy Phuong"
+    title: "Exploring the impact of fear of missing out on youth shopping intentions in the social commerce landscape"
+    venue: "Qubahan Academic Journal"
+    year: 2025
+    doi: "10.48161/qaj.v5n1a1403"
+  - authors: "Nguyen Binh Phuong Duy, Van Thanh-Truong Nguyen, Bui Thanh Khoa"
+    title: "From flow experience determinants to user behaviour: A study on online food ordering platforms via mobile applications"
+    venue: "Journal of Open Innovation: Technology, Market, and Complexity"
+    year: 2025
+    doi: "10.1016/j.joitmc.2025.100551"
+
+projects:
+  - title: "Consumer Behaviour in Digital Commerce"
+    period: "2025-2026"
+    summary: "Studying how digital platforms, social proof, and fear-of-missing-out influence purchase intention and repurchase decisions in emerging markets."
+  - title: "Sustainable and Responsible Business Models"
+    period: "2025-2026"
+    summary: "Examining how sustainability, innovation, and organisational capability improve business performance in Vietnamese firms."
+  - title: "Technology, Logistics, and Service Experience"
+    period: "2026-2027"
+    summary: "Exploring the relationship between digital transformation, logistics service quality, and customer loyalty in omnichannel retail systems."
+  - title: "AI, Data, and Strategic Decision Making"
+    period: "2026-2027"
+    summary: "Applying machine learning, bibliometric techniques, and decision analytics to support intelligent business and policy design."
