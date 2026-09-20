@@ -12,10 +12,7 @@ Open University (2020) and a master's degree in Business and Economics from
 Universite Toulouse 1 Capitole in France (2012).
 
 He is the co-founder and CEO of Innoteq Co., Ltd., a technology company in Ho
-Chi Minh City. He serves on the editorial boards of several indexed journals,
-among them Jurnal the Messenger, the Journal of System and Management
-Sciences, and the International Journal of Technology Transfer and
-Commercialisation.
+Chi Minh City. He serves on the editorial boards of several international indexed journals as well as Journal of Science and Technology - Ho Chi Minh City University of Industry (Vietnam).
 
 His research covers electronic commerce, organisational behaviour, and
 consumer behaviour, with attention to intention, satisfaction, and loyalty. He
@@ -28,7 +25,7 @@ also reviews for journals indexed in Scopus and ISI.
     <tr>
       <th>2020 - present</th>
       <td>Member of the editorial board
-        <span class="place">Jurnal the Messenger (ESCI); Journal of System and Management Sciences (Scopus); Journal of Logistics, Informatics and Service Science (Scopus); Advances in Operations Research (ESCI, Scopus); International Journal of Technology Transfer and Commercialisation (Inderscience)</span>
+        <span class="place">PLOS One (SCIE Q2, SCOPUS Q1) — Editorial Board Member;Humanities and Social Sciences Communications (SCOPUS Q1) — Editorial Board Member; Journal of Management Changes in Digital Era — Associate Editor; Journal of Computers, Mechanical and Management (SCOPUS Q1)— Section Editor; Humanities and Social Sciences Letters (SCOPUS Q2) — Editorial Board Member; Journal of Logistics, Informatics and Service Science (SCOPUS Q3)— Editorial Board Member; Journal of System and Management Sciences — Editorial Board Member; International Journal of Technology Transfer and Commercialisation — Editorial Board Member.</span>
       </td>
     </tr>
     <tr>
@@ -39,7 +36,11 @@ also reviews for journals indexed in Scopus and ISI.
     </tr>
     <tr>
       <th>2009 - present</th>
-      <td>Lecturer, Faculty of Commerce and Tourism
+      <td>
+      <div>Lecturer, Faculty of Business and Administration</div>
+      <div>Lecturer, Faculty of Commerce and Tourism</div>
+      <div>Head of E-commerce Department, Faculty of Commerce and Tourism</div>
+      <div>Vice Dean, Faculty of Commerce and Tourism</div>
         <span class="place">Industrial University of Ho Chi Minh City</span>
       </td>
     </tr>
