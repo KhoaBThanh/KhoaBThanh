@@ -1,10 +1,10 @@
 <nav>
   <a href="{{ '/' | relative_url }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a>
   <a href="{{ '/about/' | relative_url }}"{% if page.url contains "/about" %} aria-current="page"{% endif %}>About</a>
-  <a href="{{ '/research-group/' | relative_url }}"{% if page.url contains "/research-group" %} aria-current="page"{% endif %}>Research Group</a>
   <a href="{{ '/publications/' | relative_url }}"{% if page.url contains "/publications" %} aria-current="page"{% endif %}>Publications</a>
   <a href="{{ '/teaching/' | relative_url }}"{% if page.url contains "/teaching" %} aria-current="page"{% endif %}>Teaching</a>
   <a href="{{ '/blog/' | relative_url }}"{% if page.url contains "/blog" %} aria-current="page"{% endif %}>Blog</a>
+  <a href="{{ '/research-group/' | relative_url }}"{% if page.url contains "/research-group" %} aria-current="page"{% endif %}>Research Group</a>
   <a href="{{ '/contact/' | relative_url }}"{% if page.url contains "/contact" %} aria-current="page"{% endif %}>Contact</a>
   <a class="feed-link" href="{{ '/feed.xml' | relative_url }}" title="Atom feed">RSS</a>
 </nav>
