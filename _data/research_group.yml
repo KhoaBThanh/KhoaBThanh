@@ -29,8 +29,6 @@ groups:
         role: "Researcher in management information systems and digital transformation"
         orcid: """
         orcid_url: "https://orcid.org"
-
-
   - period: "2026-2027"
     members:
       - name: "Bui Thanh Khoa"
