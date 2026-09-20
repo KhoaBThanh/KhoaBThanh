@@ -27,7 +27,7 @@ groups:
         orcid_url: "https://orcid.org/0009-0007-1936-0160"
       - name: "MinCong Tang, Professor, PhD"
         role: "Researcher in management information systems and digital transformation"
-        orcid: """
+        orcid: ""
         orcid_url: "https://orcid.org"
   - period: "2026-2027"
     members:
@@ -52,8 +52,12 @@ sample_publications:
     venue: "Journal of Retailing and Consumer Services"
     year: 2027
     doi: "10.1016/j.jretconser.2026.105074"
+    scopus_q: "Q1"
+    wos_q: "Q1"
   - authors: "Bui Thanh Khoa"
     title: "Cloud-related resources, supply chain ambidexterity and supply chain performance: evidence from a cross-national empirical investigation"
     venue: "Asia Pacific Journal of Marketing and Logistics"
     year: 2026
     doi: "10.1108/APJML-03-2026-0552"
+    scopus_q: "Q1"
+    wos_q: "Q2"
