@@ -35,16 +35,6 @@ methodological development, and the practical application of research findings.
 {%- endfor %}
 </ul>
 
-## Research projects
-
-{%- for project in site.data.research_group.projects %}
-
-### {{ project.title }}
-<p class="meta">{{ project.period }}</p>
-<p>{{ project.summary }}</p>
-
-{%- endfor %}
-
 ## Group publications
 
 The publication record below is shared with the site's main publications list.
@@ -82,6 +72,3 @@ new work.
 {%- endfor %}
 </ul>
 
-The group also develops projects involving qualitative and quantitative
-methods, structural equation modelling, bibliometric analysis, machine
-learning, and theory development.

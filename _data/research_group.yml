@@ -69,16 +69,3 @@ sample_publications:
     year: 2025
     doi: "10.1016/j.joitmc.2025.100551"
 
-projects:
-  - title: "Consumer Behaviour in Digital Commerce"
-    period: "2025-2026"
-    summary: "Studying how digital platforms, social proof, and fear-of-missing-out influence purchase intention and repurchase decisions in emerging markets."
-  - title: "Sustainable and Responsible Business Models"
-    period: "2025-2026"
-    summary: "Examining how sustainability, innovation, and organisational capability improve business performance in Vietnamese firms."
-  - title: "Technology, Logistics, and Service Experience"
-    period: "2026-2027"
-    summary: "Exploring the relationship between digital transformation, logistics service quality, and customer loyalty in omnichannel retail systems."
-  - title: "AI, Data, and Strategic Decision Making"
-    period: "2026-2027"
-    summary: "Applying machine learning, bibliometric techniques, and decision analytics to support intelligent business and policy design."
