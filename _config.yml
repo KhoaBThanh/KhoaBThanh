@@ -19,7 +19,7 @@ author:
 # that will host the site, then rebuild before publishing.
 #   project site:  url: "https://<account>.github.io"   baseurl: "/<repository>"
 #   custom domain: url: "https://buithanhkhoa.com"      baseurl: ""
-url: "https://khoabthanh.github.io"
+url: "https://buithanhkhoa.com"
 baseurl: "/"
 
 lang: en
