@@ -7,23 +7,25 @@ description: "Bui Thanh Khoa, Vice Dean and Senior Lecturer in the Faculty of Co
 
 <img src="{{ '/assets/images/Khoa2026.jpg' | relative_url }}" alt="Bui Thanh Khoa">
 
-Bui Thanh Khoa is Vice Dean and Senior Lecturer in the Faculty of Commerce and Tourism at the
+<p>Bui Thanh Khoa is Vice Dean and Senior Lecturer in the Faculty of Commerce and Tourism at the
 Industrial University of Ho Chi Minh City, and the co-founder and CEO of
-Innoteq Co., Ltd.
+Innoteq Co., Ltd.</p>
+
+<p>I have been named in the Top 2% list of the world's most-cited scientists.
+<a href="https://topscinet.com/scientist_profile/Khoa,%20Bui%20Thanh/2019/?stype=single_year">Verified on TOPSCINET</a></p>
 
 <p class="lede">His work sits where marketing meets information systems:
 electronic commerce, consumer behaviour, online trust, and the use of machine
-learning on business data.
-  
-I have been named in the Top 2% list of the world's most-cited scientists. Source: [Verified on TOPSCINET](https://topscinet.com/scientist_profile/Khoa,%20Bui%20Thanh/2019/?stype=single_year)
+learning on business data.</p>
 
-Google Scholar records 2,844 citations and an h-index of 26 for his work
+<p>Google Scholar records 2,844 citations and an h-index of 26 for his work
 (September 2026). He holds a PhD in Business Administration from Ho Chi Minh
 City Open University and a master's degree in Business and Economics from
-Universite Toulouse 1 Capitole in France.
+Universite Toulouse 1 Capitole in France.</p>
 
-[Read more about him](/about/), or write to
-[buithanhkhoa@iuh.edu.vn](mailto:buithanhkhoa@iuh.edu.vn).
+<p><a href="{{ '/about/' | relative_url }}">Read more about him</a>, or write to
+<a href="mailto:buithanhkhoa@iuh.edu.vn">buithanhkhoa@iuh.edu.vn</a>.
+</p>
 
 ## Selected publications
 
