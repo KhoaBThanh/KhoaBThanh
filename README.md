@@ -80,12 +80,14 @@ To serve the site at buithanhkhoa.com:
     _config.yml              site settings: title, URL, author
     index.md                 home page
     about.md                 biography, appointments, education
+    research-group.md        Business and Management Research Group page
     publications.md          publications page; renders _data/publications.yml
     projects.md              project index
     teaching.md              courses and supervision
     blog.md                  post index
     contact.md               email, profiles, CV
     _data/publications.yml   the publication list: edit this to add a paper
+    _data/research_group.yml group members and research topics
     _posts/                  blog posts, one file per post
     _projects/               project detail pages
     _layouts/                default, page, post

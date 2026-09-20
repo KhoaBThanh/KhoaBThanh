@@ -23,6 +23,12 @@ also reviews for journals indexed in Scopus and ISI.
 <table class="cv">
   <tbody>
     <tr>
+      <th>2025 - present</th>
+      <td>Leader of Business and Management Research Group
+        <span class="place">Industrial University of Ho Chi Minh City</span>
+      </td>
+    </tr>
+    <tr>
       <th>2020 - present</th>
       <td>Member of the editorial board
         <span class="place">PLOS One (SCIE Q2, SCOPUS Q1) — Editorial Board Member;Humanities and Social Sciences Communications (SCOPUS Q1) — Editorial Board Member; Journal of Management Changes in Digital Era — Associate Editor; Journal of Computers, Mechanical and Management (SCOPUS Q1)— Section Editor; Humanities and Social Sciences Letters (SCOPUS Q2) — Editorial Board Member; Journal of Logistics, Informatics and Service Science (SCOPUS Q3)— Editorial Board Member; Journal of System and Management Sciences — Editorial Board Member; International Journal of Technology Transfer and Commercialisation — Editorial Board Member.</span>
